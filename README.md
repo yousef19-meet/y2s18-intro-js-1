@@ -1,21 +1,57 @@
 # Day 3 Lecture 1: Introduction to JavaScript, Part 1
 
-## Exercises
+## 1 &ensp; Exercises
 
-#### (go/js-vars) Variables and Data Types
+### 1.1 &ensp; User I/O (`hello-world`)
 1. 
 
-#### (go/js-numbers) Numbers
+### 1.2 &ensp; Variables (`vars`)
 1. 
 
-#### (go/js-strings) Strings
+### 1.3 &ensp; Numbers (`numbers`)
 1. 
 
-#### (go/js-arrays) Arrays
+### 1.4 &ensp; Strings (`strings`)
 1. 
 
-## References
-* Number methods reference: https://www.w3schools.com/jsref/jsref_obj_number.asp
-* String methods reference: https://www.w3schools.com/jsref/jsref_obj_string.asp
+### 1.5 &ensp; Arrays (`arrays`)
+1. 
+
+### 1.6 &ensp; Conditionals (`conditionals`)
+1. 
+
+### 1.7 &ensp; Loops (`loops`)
+1. 
+
+### 1.8 &ensp; Functions (`functions`)
+1. 
+
+### 1.9 &ensp; Error Handling (`error-handling`)
+1. 
+
+## 2 &ensp; Challenges
+### 2.1 
+
+### 2.2
+
+### 2.3 
+
+### 2.4 
+
+### 2.5 &ensp; Arrays (`arrays`)
+1. Try to sort an array of numbers, e.g. `[4, 10, 23, 16]`, using the `Array.sort()` method. Why is the answer incorrect? Use Google to find a way to sort numbers correctly in JavaScript.
+
+### 2.6 
+
+### 2.7 
+
+### 2.8 
+
+### 2.9 
+
+## 3 &ensp; References
+* JavaScript Numbers: https://www.w3schools.com/jsref/jsref_obj_number.asp
+* JavaScript Strings: https://www.w3schools.com/jsref/jsref_obj_string.asp
+* JavaScript Errors: https://www.w3schools.com/js/js_errors.asp
 
 ###
