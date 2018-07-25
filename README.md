@@ -2,8 +2,13 @@
 
 ## 1 &ensp; Exercises
 
+**General instructions:** Clone the repository `y2s18-intro-js-1` into a local directory by running the following command: `$ git clone https://github.com/meet-projects/y2s18-intro-js-1`.
+
 ### 1.1 &ensp; User I/O (`hello-world`)
-1. 
+1. In the `<script></script>` tags, use ``console.log`` to print "Hello, World" to the console.
+2. Open the **Chrome Inspector** (Right Click > Inspect Element) and look for the **console**. Check to see if "Hello, World" was output to the console. If not, refresh and try again.
+3. Use ``prompt`` to ask the user for their name, and use ``alert`` to say "Welcome, (their name)" back to them.
+4. Use ``document.write`` to read in the user's favorite food and display it on the web page.
 
 ### 1.2 &ensp; Variables (`vars`)
 1. 
