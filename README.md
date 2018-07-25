@@ -26,28 +26,28 @@
 ### 1.8 &ensp; Functions (`functions`)
 1. 
 
-### 1.9 &ensp; Error Handling (`error-handling`)
+### 1.9 &ensp; Error Handling (`errors`)
 1. 
 
 ## 2 &ensp; Challenges
-### 2.1 
+### 2.1 &ensp; User I/O (`hello-world`)
 
-### 2.2
+### 2.2 &ensp; Variables (`vars`)
 
-### 2.3 
+### 2.3 &ensp; Numbers (`numbers`)
 
-### 2.4 
+### 2.4 &ensp; Strings (`strings`)
 
 ### 2.5 &ensp; Arrays (`arrays`)
 1. Try to sort an array of numbers, e.g. `[4, 10, 23, 16]`, using the `Array.sort()` method. Why is the answer incorrect? Use Google to find a way to sort numbers correctly in JavaScript.
 
-### 2.6 
+### 2.6 &ensp; Conditionals (`conditionals`)
 
-### 2.7 
+### 2.7 &ensp; Loops (`loops`)
 
-### 2.8 
+### 2.8 &ensp; Functions (`functions`)
 
-### 2.9 
+### 2.9 &ensp; Error Handling (`errors`)
 
 ## 3 &ensp; References
 * JavaScript Numbers: https://www.w3schools.com/jsref/jsref_obj_number.asp
