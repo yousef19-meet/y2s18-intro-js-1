@@ -2,9 +2,12 @@
 ## Introduction to JavaScript, Part 1 (Syntax)
 
 ## 0 &ensp; Getting Started
-1. **Fork** the repository `https://github.com/meet-projects/y2s18-intro-js-1`.
-2. In **Terminal**, change directory onto your Desktop: `cd ~/Desktop`.
-2. **Clone** the repository `y2s18-intro-js-1` onto your Desktop, replacing `<username>` with your Github username in the following command:
+
+1. **Fork** this repository by clicking "Fork" on this page: `https://github.com/meet-projects/y2s18-intro-js-1`.
+    ![forking](https://image.ibb.co/jHRieT/forking.png)
+2. In **Terminal**, change directory onto your Desktop: 
+`cd ~/Desktop`
+3. **Clone** the repository `y2s18-intro-js-1` onto your Desktop, replacing `<username>` with your Github username in the following command:
     - `$ git clone https://github.com/<username>/y2s18-intro-js-1`.
 
 ## 1 &ensp; Labs
