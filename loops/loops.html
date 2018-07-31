@@ -9,12 +9,20 @@
     <h1>Guessing Game</h1>
 
     <script>
-/* STARTING CODE */
+/* STARTING CODE */4
+	var guess=prompt("guess a number")
 function getRandomInt(min, max) {
     return Math.floor(Math.random() * Math.floor(max - min)) + min;
 }
 
 var randomInt = getRandomInt(1, 100);
+if(guess>randomInt){
+	alert("you guessed too high")
+if(guess<randomInt){
+	alert("you guessed too low")
+
+
+
 /* END STARTING CODE */
 
 // your code goes under here
