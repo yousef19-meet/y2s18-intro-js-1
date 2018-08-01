@@ -10,18 +10,31 @@
 
     <script>
 /* STARTING CODE */4
-	var guess=prompt("guess a number")
+	var guess=prompt("guess a number");
 function getRandomInt(min, max) {
     return Math.floor(Math.random() * Math.floor(max - min)) + min;
 }
-
+var check=false;
+var i = 0
 var randomInt = getRandomInt(1, 100);
-if(guess>randomInt){
-	alert("you guessed too high")
-if(guess<randomInt){
-	alert("you guessed too low")
+while (check==false){
+	
+	if(guess>randomInt){
+		alert("you guessed too high")
+		var guess=prompt("guess a number");
+		check=false;}
 
+	else if(guess<randomInt){
+		alert("you guessed too low")
+		var guess=prompt("guess a number");
+		check= false;}
 
+	else{
+		alert("you guessed the number, you tried "+i+"times")
+		check= true;
+	}
+	i++
+}
 
 /* END STARTING CODE */
 
